@@ -33,4 +33,3 @@ The goal is to extract meaningful insights about patient demographics, medical c
 
 ---
 
-## 📁 Project Structure
